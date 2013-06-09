@@ -37,6 +37,8 @@
 
 // RtMidi: Version 1.0.11
 
+#define __MACOSX_CORE__
+
 #include "RtMidi.h"
 #include <sstream>
 
